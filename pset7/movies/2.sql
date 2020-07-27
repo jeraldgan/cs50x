@@ -1,0 +1,1 @@
+SELECT birth as "birth year" from people where name = "Emma Stone";
